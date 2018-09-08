@@ -1,0 +1,2 @@
+İf Koşulu İle Birlikte Fonksiyonları Kullanma
+Bu seviyede Minnoş’u öğrendiğin hareket fonksiyonlarından birkaçı ve if koşulu ile hedefe ulaştırman gerekiyor.

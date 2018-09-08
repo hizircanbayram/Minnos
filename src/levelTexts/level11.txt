@@ -1,0 +1,5 @@
+While Yapısını Öğrenme
+While’ın genel mantığını anladın. Şimdi sıra While’ın gerçek kullanımını öğrenmekte!
+Bu yapıyı kullanman için öncelikle bir sayı tanımlaman gerekecek. Bu işlem için “int sayi=0;” tanımlaması sana yardımcı olacak.
+Bu tanılamayı yaptıktan sonra “sayi ” tanımlamasını while’ın içinde kullanman ve bu sayıyı sürekli arttırmak gerekecek.
+“int sayi=0;” “while(sayi<7) { sagaAdimAt(); ++sayi;}” kodu bu seviyeyi başarmanda sana yardımcı olacak.

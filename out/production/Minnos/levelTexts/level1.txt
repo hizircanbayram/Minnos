@@ -1,0 +1,4 @@
+Fonksiyon Tanımı
+Hoşgeldin! Kodlama öğrenmeye hazır mısın? Minnoş kodlama öğrenmende sana eşlik edecek. Eğer hazırsan başlayalım!
+Öncelikle hedefin Minnoş’u yuvasına götürrmek. Bu hedefe ulaşabilmen için bazı fonksiyonlar yazman gerekecek. Fonksiyon Minnoş’u hareket ettirmek için gerekli olan emir cümleleridir.
+Şimdi görevi yerine getirme işlemine odaklanalım. Bu seviye için “sagaAdimAt();”  fonksiyonu görevi başarıyla tamamlamanı sağlayacaktır.

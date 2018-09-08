@@ -1,0 +1,2 @@
+En Kısa Yolu Bulma
+Bu seviyede amacın en kısa yoldan sonuca  gidecek fonksiyonlari yazmak. Bakalım en kısa yolu bulabilecek misin? Unutma! Seviye sonunda aldığın puan gitmiş olduğun yolun uzunluğu ile bağlantılı olacak. En kısa yol en fazla puan demektir.

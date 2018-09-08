@@ -1,0 +1,3 @@
+Arka Arkaya Fonskiyon Çağırma
+Bu görevi yerine getirebilmen icin tek fonksiyon yeterli olmayacak. Alt alta sıralı bir şekilde yazacağın fonksiyonlarla sonuca ulaşman gerekecek. UNUTMA! Minnoş agaç olan yol üzerinden hareket edemez.
+Bu seviyede  “asagiAdimAt();” fonksiyonu başarıya ulaşmanda sana yardımcı olacaktır.

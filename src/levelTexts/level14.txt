@@ -1,0 +1,2 @@
+While İle if Kullanma
+Bu seviyede başarıya ulaşabilmen için iki adet while’ın ardından bir adet de if kullanmalısın.

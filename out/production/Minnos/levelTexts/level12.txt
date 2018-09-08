@@ -1,0 +1,3 @@
+Birden Fazla While Kullanma
+While’ın genel yapısını öğrendiğine göre sıra kendi kodunu yazmakta!
+Arka arkaya kullanacağın iki while ile seviyeyi geçebilirsin. UNUTMA! İki while için iki adet sayi tanımlaman gerekecek.

@@ -1,0 +1,3 @@
+İf Koşulunu Ögrenme
+Evet artık Minnoş’u hareket ettirecek tüm fonksiyonlari öğrendin. Şimdi sira önüne çıkacak bir engeli aşmakta. Bu engeli aşmak için “if()” adında bir koşul kullanmak gerekecek.
+Bu seviyede sana “asagiAdimAt();” fonksiyonu haricinde “if(engelVar())” koşulu yardımcı olacak. Bu koşulu kullanmadığın sürece engeli kıramayacağını ve sonuca ulaşamayacağını unutma.

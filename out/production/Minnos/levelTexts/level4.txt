@@ -1,0 +1,2 @@
+Birbirinden Farklı Fonksiyonlari Kullanma
+Bu görevi geçebilmen için yol üzerindeki ağaçları aşabilmen gerekecek. sagaAdimAt, asagiAdimAt ve solaAdimAt fonksiyonlarını doğru sırayla kullanman seni sonuca ulaştıracak.

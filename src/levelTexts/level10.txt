@@ -1,0 +1,4 @@
+While Mantığı
+Alt alta sürekli fonksiyon yazmaktan yoruldun değil mi? Şimdi bu sorunu halledecek yepyeni bir komut öğreneceksin.
+Bu komutun içine yazdığın sayı fonskiyonun kaç kere çalışması gerektiğini gösterir.
+Bu seviyede “while(6){ asagiAdimAt();}” kodu seni başarıyla sonuca ulaştıracaktır.

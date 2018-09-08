@@ -1,0 +1,3 @@
+En Verimli Kodu Yazma
+Daha önceki seviyede olduğu gibi if koşulu kullanarak sonuca gidebilirsin. Ancak if koşulu bilgisayar için ek bir işlem demektir.
+Şimdi sıra kendi kararını vermekte! Minnoş’u ister sadece fonksiyonları yazarak ister fonksiyonlar ile  beraber if koşulunu kullanarak hedefe ulaştır. Sonuçta tercih edeceğin yönteme göre puan alacağını unutma!
