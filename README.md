@@ -5,6 +5,13 @@ A self-learning program teaching secondary-school students fundamental concepts 
 Main purposes of the project are providing secondary-school students some coding skills, introducing them the basic concepts of programming languages like lists, loops, if-statements and making them using all these effectively.
 At the beginning of the program, user selects either signing in or signing up and their account shows up. The user can select any of the levels one's already passed in order to play. There is a task to be accomplished in every level and the score gotten in that level is based on the way that how the one finishes it up. There are also prompts that will help the user about the things being done. Top scores are listed at the beginning of the program.
 
+Contributors:
+  - Hizir Can Bayram
+  - Abdullah Bilgehan Kargin
+  - Firat Kizilirmak
+  - Onur Polattimur
+  - Yunus Çevik
+
 
 <br/><br/><br/>
 &nbsp;&nbsp;
